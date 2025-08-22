@@ -87,9 +87,6 @@ Portfolio'da yer alan başlıca projeler:
 - 🌐 **Portfolio**: [elifnuroksuz.vercel.app](https://elifnuroksuz.vercel.app/)
 - 💻 **GitHub**: [github.com/elifnuroksuzz](https://github.com/elifnuroksuzz)
 
-## 📄 Lisans
-
-Bu proje kişisel kullanım için oluşturulmuştur.
 
 ---
 
